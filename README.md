@@ -1,4 +1,3 @@
-# Databricks SQL Driver for Go
 
 
 ![http://www.apache.org/licenses/LICENSE-2.0.txt](http://img.shields.io/:license-Apache%202-brightgreen.svg)
